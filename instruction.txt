@@ -1,0 +1,9 @@
+sw: postimage
+	pixie-colorpicker
+	web: campaign monitor
+	email bilerplate
+	
+
+template: width 600px
+
+email temp video link: youtube.com/watch?v=cen0382-k_4
